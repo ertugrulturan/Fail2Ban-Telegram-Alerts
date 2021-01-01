@@ -43,4 +43,5 @@
 
 ## Example Telegram alert
 
+
 <img src="https://i.imgur.com/4lBCaUp.jpg" height="700" width="350">
